@@ -1,2 +1,4 @@
 # countdown
-count down numbers game solver
+Count down numbers game solver
+
+This is a fairly old project I started a few years ago, to get familiar with Java and working with a graphical user interface. Now I am adding it here because it still works, could be fun to use. 
